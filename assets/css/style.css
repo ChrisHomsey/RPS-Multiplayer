@@ -1,0 +1,22 @@
+body {
+	background: url(../images/bg.png);
+}
+
+#results-display {
+	font-weight: bold;
+}
+
+
+
+#sidebar {
+	background: url(../images/bg2.png);
+}
+
+#chat-container {
+	overflow-y: scroll;
+}
+
+.game-message {
+	font-size: 10px;
+	color: grey;
+}
